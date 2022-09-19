@@ -1,2 +1,2 @@
 # Basic
-Basic webiste form scratch
+Basic website from scratch
